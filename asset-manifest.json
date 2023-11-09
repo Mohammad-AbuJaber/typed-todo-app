@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typed-todo-app/static/css/main.84ebf2e1.css",
+    "main.js": "/typed-todo-app/static/js/main.9ddea594.js",
+    "index.html": "/typed-todo-app/index.html",
+    "main.84ebf2e1.css.map": "/typed-todo-app/static/css/main.84ebf2e1.css.map",
+    "main.9ddea594.js.map": "/typed-todo-app/static/js/main.9ddea594.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ebf2e1.css",
+    "static/js/main.9ddea594.js"
+  ]
+}
